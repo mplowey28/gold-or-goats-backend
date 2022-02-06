@@ -1,7 +1,7 @@
 import express, { Application } from 'express'
 import route from './routes/index'
-const cors = require('cors')
-const bodyParser = require('body-parser')
+import cors from 'cors'
+import bodyParser from 'body-parser'
 
 const app: Application = express()
 
