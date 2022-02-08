@@ -8,7 +8,7 @@ This is the backend code for a Monety Hall problem simulator called Gold or Goat
 
 ## Demo
 
-[gold or goats]: https://lucid-bose-c3c02f.netlify.app/
+[gold or goats](https://lucid-bose-c3c02f.netlify.app/)
 
 ### Executing program
 
@@ -33,5 +33,5 @@ npm run dev
 
 ## Authors
 
-ex. Matthew Plowey
-ex. [LinkedIn](https://www.linkedin.com/in/matthew-plowey)
+ Matthew Plowey
+[LinkedIn](https://www.linkedin.com/in/matthew-plowey)
